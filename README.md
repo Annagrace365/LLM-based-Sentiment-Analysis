@@ -1,10 +1,11 @@
-# LLM-based-Sentiment-Analysis
+## LLM-based-Sentiment-Analysis
 1. Introduction
 
 This project implements a lightweight sentiment analysis pipeline using a Large Language Model (LLM) to classify text reviews into Positive, Neutral, or Negative sentiments.
 It also extracts supporting cues and generates structured summaries, demonstrating strong skills in text processing, evaluation metrics, and model interpretability.
 
 2. Methodology
+   
 2.1 Dataset
 
 Custom Amazon-style dataset
